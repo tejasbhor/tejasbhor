@@ -2,7 +2,7 @@
 <h3 align="center">AI/ML Engineer • Full-Stack Developer • Cloud & DevOps Builder</h3>
 
 <p align="center">
-Building scalable technology for <b>healthcare, accessibility, and civic impact</b>.
+Building scalable technology for <b>healthcare, accessibility & civic impact</b>
 </p>
 
 <p align="center">
@@ -11,187 +11,68 @@ Building scalable technology for <b>healthcare, accessibility, and civic impact<
 
 ---
 
-# 👨‍💻 About Me
-
-🚀 I'm a developer passionate about building **AI-powered systems and scalable cloud infrastructure**.
-
-I focus on solving **real-world problems using intelligent software**, particularly in:
-
-* 🏥 Healthcare technology
-* ♿ Accessibility & assistive systems
-* 🏛 Civic technology
-* 📱 Offline-first mobile architectures
-* ☁️ Cloud-native infrastructure
-
-I enjoy working across the **entire product stack** — from **ML models → APIs → distributed infrastructure → production deployments**.
-
----
-
 # 🚀 Featured Projects
 
-### 🏛 CivicLens — AI Civic Issue Platform
-
-A **production-grade civic issue management platform** connecting citizens with municipal governments.
-
-Key Features
-
-• AI-powered issue classification engine
-• Offline-first mobile architecture
-• React Native mobile application
-• Fully containerized backend deployment
-• Secure production hosting on **Oracle Cloud Infrastructure**
-
-Infrastructure
-
-• Dockerized services
-• Reverse proxy using **Caddy (auto TLS)**
-• Cloud VM deployment on OCI
-
-Tech
-
-`FastAPI` • `React Native` • `Docker` • `Oracle Cloud` • `AI/ML`
+| Project | Description | Tech |
+|------|-------------|------|
+| 🏛 **CivicLens** | AI-powered civic issue reporting platform connecting citizens with municipal governments | FastAPI • React Native • Docker • OCI |
+| 🤟 **Shravyamudra** | Text → Indian Sign Language translation system improving accessibility | Python • ML • Django • CV |
+| 🏥 **DocNearby** | 🥇 Hackathon-winning AI healthcare discovery platform | FastAPI • React • AI/ML |
 
 ---
 
-### 🤟 Shravyamudra — Text → Indian Sign Language
+# 🧠 What I Build
 
-A real-time **Text-to-Indian Sign Language (ISL) translation system** designed to improve accessibility for the deaf community.
+⚡ **AI-powered systems solving real-world problems**
 
-Capabilities
-
-• NLP-based text interpretation
-• Gesture translation pipeline
-• Real-time visual gesture rendering
-
-Focus
-
-Accessibility-first **AI-powered communication technology**
-
-Tech
-
-`Python` • `Machine Learning` • `Django` • `Computer Vision`
-
----
-
-### 🏥 DocNearby — AI Healthcare Platform
-
-🥇 **1st Prize – PixelRush Hackathon**
-
-AI-powered healthcare discovery platform connecting users with **nearby doctors based on symptoms**.
-
-Core Features
-
-• Intelligent symptom analysis
-• Smart doctor recommendation system
-• Location-based healthcare discovery
-
-Tech
-
-`AI/ML` • `FastAPI` • `React`
-
----
-
-# ☁️ Cloud & DevOps
-
-I enjoy building **production-grade infrastructure and scalable deployments.**
-
-Technologies I work with:
-
-• **Oracle Cloud Infrastructure (OCI)**
-• **Docker containerization**
-• **Caddy reverse proxy with auto TLS**
-• **GitHub Actions CI/CD pipelines**
-• **ARM64 cloud environments**
-• **Linux server orchestration**
-
-Key Interests
-
-⚡ Cloud-native architectures
-⚡ Automated deployments
-⚡ Infrastructure reliability
-⚡ DevOps automation
+- 🏥 Healthcare technology  
+- ♿ Accessibility platforms  
+- 🏛 Civic technology  
+- 📱 Offline-first mobile systems  
+- ☁️ Cloud-native backend infrastructure  
 
 ---
 
 # 🛠 Tech Stack
 
 ### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge\&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django)
-
----
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge\&logo=next.js)
-
----
-
-### Mobile
-
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge\&logo=react)
-
----
+### Frontend / Mobile
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react)
 
 ### DevOps / Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker)
-![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge\&logo=oracle)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions)
-
----
-
-# 🧠 What I'm Currently Learning
-
-⚡ **Advanced DevOps & Cloud Infrastructure**
-
-• ARM64 cloud deployment
-• CI/CD automation with GitHub Actions
-• Cloud-native architecture design
-
-⚡ **Offline-First System Design**
-
-• Distributed caching
-• Sync conflict resolution
-• Resilient mobile state management
-
-⚡ **Scalable System Design**
-
-• API scaling strategies
-• Event-driven architectures
-• High-performance backend services
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Oracle Cloud](https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
 
 ---
 
-# 🤝 I'm Open To Collaborate On
+# ☁️ Cloud & DevOps
 
-Projects related to:
+I build **production-grade infrastructure and scalable deployments**
 
-🤖 AI / ML for social impact
-🏥 Healthcare technology
-♿ Accessibility platforms
-🏛 Civic technology systems
-☁️ Cloud-native backend systems
+• Dockerized microservices  
+• Oracle Cloud Infrastructure deployments  
+• CI/CD with GitHub Actions  
+• ARM64 cloud environments  
+• Reverse proxy with Caddy (Auto TLS)
 
 ---
 
-# 💬 Ask Me About
+# 🏆 Achievements
 
-• Offline-first mobile architectures
-• DevOps & cloud deployment workflows
-• FastAPI backend systems
-• AI/ML product development
-• Hackathons and rapid prototyping
+🥇 **1st Place — PixelRush Hackathon (DocNearby)**  
+🚀 Built production deployments on **Oracle Cloud Infrastructure**  
+🤟 Developed **Indian Sign Language accessibility platform**
 
 ---
 
@@ -209,14 +90,6 @@ Projects related to:
 
 ---
 
-# 🏆 Achievements
-
-🥇 **1st Place — PixelRush Hackathon** (DocNearby)
-🚀 Built production deployments on **Oracle Cloud Infrastructure**
-🤟 Developed **Indian Sign Language accessibility platform**
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
@@ -230,9 +103,3 @@ Projects related to:
 </a>
 
 </p>
-
----
-
-# ⚡ Fun Fact
-
-I enjoy exploring **new hiking trails** and brainstorming **how technology can solve everyday challenges**.
